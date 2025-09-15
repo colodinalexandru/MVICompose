@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVICompose</string>
+    <string name="full_discount">Discount</string>
+    <string name="full_stock">Stock</string>
+    <string name="full_price">Price</string>
+    <string name="full_category">Category</string>
+</resources>
